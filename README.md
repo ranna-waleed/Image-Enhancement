@@ -46,7 +46,7 @@ This project showcases the application of classical computer vision techniques t
 # How to Run
 Clone the repository:
 
-git clone https://github.com/yourusername/computer-vision-mini-project.git
+git clone https://github.com/ranna-waleed/Image-Enhancement
 cd computer-vision-mini-project
 
 Install dependencies:
